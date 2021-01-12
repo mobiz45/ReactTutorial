@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mobiz45/ReactTutorial/static/css/main.3c5c2f61.chunk.css",
+    "main.js": "/mobiz45/ReactTutorial/static/js/main.0b9bd845.chunk.js",
+    "main.js.map": "/mobiz45/ReactTutorial/static/js/main.0b9bd845.chunk.js.map",
+    "runtime-main.js": "/mobiz45/ReactTutorial/static/js/runtime-main.268c67ed.js",
+    "runtime-main.js.map": "/mobiz45/ReactTutorial/static/js/runtime-main.268c67ed.js.map",
+    "static/js/2.09bcc6aa.chunk.js": "/mobiz45/ReactTutorial/static/js/2.09bcc6aa.chunk.js",
+    "static/js/2.09bcc6aa.chunk.js.map": "/mobiz45/ReactTutorial/static/js/2.09bcc6aa.chunk.js.map",
+    "index.html": "/mobiz45/ReactTutorial/index.html",
+    "static/css/main.3c5c2f61.chunk.css.map": "/mobiz45/ReactTutorial/static/css/main.3c5c2f61.chunk.css.map",
+    "static/js/2.09bcc6aa.chunk.js.LICENSE.txt": "/mobiz45/ReactTutorial/static/js/2.09bcc6aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.268c67ed.js",
+    "static/js/2.09bcc6aa.chunk.js",
+    "static/css/main.3c5c2f61.chunk.css",
+    "static/js/main.0b9bd845.chunk.js"
+  ]
+}
